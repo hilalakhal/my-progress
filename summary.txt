@@ -4,3 +4,8 @@ But it's okay, I just want to keep progressing
 
 So I will start from learning about github
 *I already learned about web programming, python, and C++ even still in beginner level
+
+So here I want to check or test :
+1. I already have github account since last year so this is not my first time
+2. I want to try commit changes at github
+3. I want to know more about repository things at github
